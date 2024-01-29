@@ -1,0 +1,28 @@
+package main
+
+var badSites []string = []string{
+	"https://sallysbakingaddiction.com/recent-posts/",
+	"https://sallysbakingaddiction.com/how-to-braid-pie-crust/",
+	"https://sallysbakingaddiction.com/chocolate-chip-cookie-recipes/",
+	"https://sallysbakingaddiction.com/clean-silicone-baking-mats/",
+	"https://sallysbakingaddiction.com/minimal-ingredient-baking/",
+	"https://sallysbakingaddiction.com/holiday-baking-gift-guide/",
+	"https://sallysbakingaddiction.com/baking-gifts/",
+	"https://sallysbakingaddiction.com/14-kitchen-tools-every-baker-needs/",
+	"https://sallysbakingaddiction.com/baking-with-yeast/",
+	"https://sallysbakingaddiction.com/baking-basics-baking-chocolate/",
+	"https://sallysbakingaddiction.com/room-temperature-butter/",
+	"https://sallysbakingaddiction.com/cookie-decorating-day/",
+	"https://sallysbakingaddiction.com/cake-baking-tips/",
+	"https://sallysbakingaddiction.com/10-best-cookie-baking-tools/",
+	"https://sallysbakingaddiction.com/update-coffee-break/",
+	"https://sallysbakingaddiction.com/fathers-day-recipes/",
+	"https://sallysbakingaddiction.com/best-cake-baking-tools/",
+	"https://sallysbakingaddiction.com/baking-bucket-list-recipes/",
+	"https://sallysbakingaddiction.com/36-valentines-day-recipes/",
+	"https://sallysbakingaddiction.com/sallys-baking-addiction-cookbook/",
+	"https://sallysbakingaddiction.com/how-to-make-swirled-frosting/",
+	"https://sallysbakingaddiction.com/baking-powder-vs-baking-soda/",
+	"https://sallysbakingaddiction.com/best-apples-for-baking/",
+	"https://sallysbakingaddiction.com/best-cookie-decorating-supplies/",
+}
